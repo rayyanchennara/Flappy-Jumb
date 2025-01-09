@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcdf83756ee962f479f62b878ba9cfb2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124585
+  packageName: Color Dishes
+  packageVersion: 1.0
+  assetPath: Assets/Dish/Materials/Dish_Orange.mat
+  uploadId: 258726

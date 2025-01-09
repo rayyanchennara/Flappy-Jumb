@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d115ed582c7ccc344b89e8c6053a2571
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124585
+  packageName: Color Dishes
+  packageVersion: 1.0
+  assetPath: Assets/Dish/Materials/Dish_Black.mat
+  uploadId: 258726

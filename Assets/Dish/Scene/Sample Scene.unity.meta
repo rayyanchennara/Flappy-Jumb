@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a7ab44815dca444ba5aaba5ce01e2d6
+timeCreated: 1533109864
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124585
+  packageName: Color Dishes
+  packageVersion: 1.0
+  assetPath: Assets/Dish/Scene/Sample Scene.unity
+  uploadId: 258726

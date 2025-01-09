@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2130253df80528e409e685429f95da7e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124585
+  packageName: Color Dishes
+  packageVersion: 1.0
+  assetPath: Assets/Dish/Materials/Dish_Pink.mat
+  uploadId: 258726

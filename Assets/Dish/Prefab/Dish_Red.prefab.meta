@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0287760fd4bfad43ae5fa83f3bd51fb
+timeCreated: 1533110530
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124585
+  packageName: Color Dishes
+  packageVersion: 1.0
+  assetPath: Assets/Dish/Prefab/Dish_Red.prefab
+  uploadId: 258726

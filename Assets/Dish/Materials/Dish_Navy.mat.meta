@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd97c6fb783aea7498d72982f8ad4b68
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124585
+  packageName: Color Dishes
+  packageVersion: 1.0
+  assetPath: Assets/Dish/Materials/Dish_Navy.mat
+  uploadId: 258726
